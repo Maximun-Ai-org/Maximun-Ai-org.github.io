@@ -1,2 +1,51 @@
-# Maximun-Ai-org.github.io
-Official web portal for Maximun-Ai: Edge AI, Low-cost IoT, Hierarchical Reasoning Models (HRM) and AI Project Orchestration.
+# 🚀 Maximun-Ai | Core Framework & Ecosystem
+
+Espacio oficial dedicado a la investigación, desarrollo, migración y consolidación de infraestructuras avanzadas y soluciones funcionales del ecosistema **Maximun-Ai**.
+
+---
+
+## 🔬 Enfoque Tecnológico
+
+* **Domótica Impulsada por IA:** Integración de modelos inteligentes para la automatización, control y monitoreo de entornos residenciales e industriales.
+* **Computación en el Borde (Edge Computing):** Procesamiento de datos descentralizado y de baja latencia para optimizar recursos y garantizar operatividad local.
+* **Arquitecturas HRM (Hierarchical Recurrent Memory / Modelos Jerárquicos):** Diseño de estructuras de memoria y procesamiento eficiente para aplicaciones complejas.
+
+---
+
+## 📦 Proyectos en Mapeo y Migración
+
+| Proyecto / Módulo | Descripción | Estado | Acceso / Enlace |
+| :--- | :--- | :--- | :--- |
+| **Infraestructura Base** | Despliegue de portal principal y ruteo de dominios. | 🟢 Activo | [Ver Sitio](https://maximun-ai.is-a.dev) |
+| **Módulos Edge & IA** | Integración de servicios, modelos y automatizaciones. | 🟡 En Migración | -- |
+
+---
+
+## 🛠️ Infraestructura y Despliegue
+
+* **Hosting & CDN:** GitHub Pages
+* **Dominio Principal:** `maximun-ai.is-a.dev` / `maximun-ai.github.io`
+
+---
+
+## 📌 Contacto Institucional y Redes
+
+* 🌐 **Sitio Web Principal:** [maximun-ai.is-a.dev](https://maximun-ai.is-a.dev)
+* 🏢 **Organización en GitHub:** [github.com/Maximun-Ai](https://github.com/Maximun-Ai)
+* 💼 **LinkedIn:** [Maximun-AI en LinkedIn](https://www.linkedin.com/company/maximun-ai-org)
+* 💬 **Consultas e Información (WhatsApp):** [https://wa.me/542268415977]
+* ✉️ **Correo Electrónico:** `MAXIMUN-360@PROTON.ME`
+
+---
+
+## 🤝 Contribuciones y Apoyo al Proyecto
+
+Si te interesa apoyar el desarrollo, la investigación en código abierto y la expansión de la infraestructura de **Maximun-Ai**, puedes realizar una contribución voluntaria:
+
+* ☕ **Donaciones / Sponsoring vía PayPal:** [paypal.me/Macarrone](https://www.paypal.me/Macarrone)
+
+---
+
+<p align="center">
+  <b>Maximun-Ai</b> • <i>Domótica con IA • Computación en el Borde • Arquitecturas HRM</i>
+</p>
