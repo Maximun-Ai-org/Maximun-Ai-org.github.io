@@ -24,7 +24,7 @@ Espacio oficial dedicado a la investigación, desarrollo, migración y consolida
 ## 🛠️ Infraestructura y Despliegue
 
 * **Hosting & CDN:** GitHub Pages
-* **Dominio Principal:** `maximun-ai.is-a.dev` / `maximun-ai.github.io`
+* **Dominio Principal:** `maximun-ai.github.io`
 
 ---
 
